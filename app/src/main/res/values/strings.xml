@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Palliative Care</string>
+    <string name="patient_login">Log in Patient</string>
+    <string name="doctor_login">Log in Doctor</string>
+    <string name="patient_register">Register Patient</string>
+    <string name="doctor_register">Register doctor</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="login_desc">Login to your account</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome!</string>
+    <string name="welcome_desc">Welcome to the palliative care app</string>
+    <string name="remember_me">Remember me</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="do_not_have_account">Don\'t have account?</string>
+    <string name="signup_desc">Create your account</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="family_name">Family Name</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="email">Email</string>
+    <string name="mobile_no">Mobile no.</string>
+    <string name="confirm_pass">Confirm Password</string>
+    <string name="terms_privacy">By registering, you are agreeing to our Terms of use and Privacy Policy.</string>
+    <string name="have_account">Already have account?</string>
+    <string name="doctor_patient">Are you Doctor or Patient?</string>
+    <string name="doctor">Doctor</string>
+    <string name="patient">Patient</string>
+    <string name="address">Address</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="profile">Profile</string>
+    <string name="topics">Topics</string>
+    <string name="btn_send">Send</string>
+    <string name="type_here">Type Here...</string>
+    <string name="lang">Language</string>
+    <string name="ar">Arabic</string>
+    <string name="en">English</string>
+    <string name="logout">Logout</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_topic">Add Topic</string>
+    <string name="enter_name">Enter name...</string>
+    <string name="enter_textual">Enter Textual...</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="hide">Hide</string>
+    <string name="delete">Delete</string>
+    <string name="title_topic">Title Topic</string>
+    <string name="description_topic">Description Topic</string>
+    <string name="files_topic">Files Topic</string>
+    <string name="logo_topic">Logo Topic</string>
+    <string name="attaches">Attaches</string>
+    <string name="edit_topic">Edit Topic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_logo">Add Logo</string>
+    <string name="display">Display</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>

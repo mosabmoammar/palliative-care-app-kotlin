@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الرعاية التلطيفية</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_desc">سجل الدخول إلى حسابك</string>
+    <string name="password">كلمة المرور</string>
+    <string name="welcome">مرحباً!</string>
+    <string name="welcome_desc">مرحباً بك في تطبيق الرعاية التلطيفية</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="forgot_pass">نسيت كلمة المرور؟</string>
+    <string name="do_not_have_account">ليس لديك حساب؟</string>
+    <string name="register">إنشاء حساب</string>
+    <string name="signup_desc">أنشئ حسابك</string>
+    <string name="first_name">الأسم الأول</string>
+    <string name="middle_name">الأسم الأوسط</string>
+    <string name="family_name">اسم العائلة</string>
+    <string name="birth_date">تاريخ الميلاد</string>
+    <string name="email">البريد الإلكتروني</string>
+    <string name="mobile_no">رقم الهاتف المحمول</string>
+    <string name="confirm_pass">تأكيد كلمة المرور</string>
+    <string name="terms_privacy">بالتسجيل ، فإنك توافق على شروط الاستخدام وسياسة الخصوصية الخاصة بنا.</string>
+    <string name="have_account">هل لديك حساب؟</string>
+    <string name="doctor_patient">هل أنت طبيب أم مريض؟</string>
+    <string name="doctor">طبيب</string>
+    <string name="patient">مريض</string>
+    <string name="address">العنوان</string>
+    <string name="search">بحث</string>
+    <string name="home">الرئيسية</string>
+    <string name="chat">المحادثات</string>
+    <string name="profile">الملف الشخصي</string>
+    <string name="topics">المواضيع</string>
+    <string name="btn_send">ارسال</string>
+    <string name="type_here">اكتب هنا...</string>
+    <string name="lang">اللغة</string>
+    <string name="ar">العربية</string>
+    <string name="en">الإنجليزية</string>
+    <string name="logout">تسجيل الخروج</string>
+    <string name="favorite">المفضلة</string>
+    <string name="add_topic">إضافة موضوع</string>
+    <string name="enter_name">أدخل الإسم...</string>
+    <string name="enter_textual">أدخل النص...</string>
+    <string name="save">حفظ</string>
+    <string name="edit">تعديل</string>
+    <string name="hide">إخفاء</string>
+    <string name="delete">حذف</string>
+    <string name="patient_login">تسجيل دخول مريض</string>
+    <string name="doctor_login">تسجيل دخول طبيب</string>
+    <string name="patient_register">إنشاء حساب مريض</string>
+    <string name="doctor_register">إنشاء حساب طبيب</string>
+    <string name="title_topic">عنوان الموضوع</string>
+    <string name="description_topic">وصف الموضوع</string>
+    <string name="files_topic">ملفات الموضوع</string>
+    <string name="logo_topic">شعار الموضوع</string>
+    <string name="attaches">المرفقات</string>
+    <string name="edit_topic">تعديل الموضوع</string>
+    <string name="add_logo">ارفاق شعار</string>
+    <string name="display">عرض</string>
+
+
+
+
+
+</resources>
